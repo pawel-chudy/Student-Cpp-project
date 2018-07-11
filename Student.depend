@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1531136142 source:c:\users\pawel\documents\_code_blocks_cpp\student\student\student.cpp
+	"Student.h"
+
+1531313693 c:\users\pawel\documents\_code_blocks_cpp\student\student\student.h
+	<string>
+	<sstream>
+
+1531314328 source:c:\users\pawel\documents\_code_blocks_cpp\student\student\main.cpp
+	<iostream>
+	<exception>
+	<windows.h>
+	<string>
+	"Student.h"
+	"StudentList.h"
+
+1531253097 c:\users\pawel\documents\_code_blocks_cpp\student\student\studentlist.h
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	<exception>
+	"Student.h"
+
+1531136142 source:c:\users\pawel\documents\_code_blocks_cpp\student\student_bledy\student.cpp
+	"Student.h"
+
+1531253082 c:\users\pawel\documents\_code_blocks_cpp\student\student_bledy\student.h
+	<string>
+	<sstream>
+
+1531254122 source:c:\users\pawel\documents\_code_blocks_cpp\student\student_bledy\studentlist.cpp
+	"StudentList.h"
+
+1531253097 c:\users\pawel\documents\_code_blocks_cpp\student\student_bledy\studentlist.h
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	<exception>
+	"Student.h"
+
+1531249298 source:c:\users\pawel\documents\_code_blocks_cpp\student\student_bledy\main.cpp
+	<iostream>
+	<exception>
+	<windows.h>
+	<string>
+	"Student.h"
+	"StudentList.h"
+
+1531314209 source:c:\users\pawel\documents\_code_blocks_cpp\student\student\studentlist.cpp
+	"StudentList.h"
+
